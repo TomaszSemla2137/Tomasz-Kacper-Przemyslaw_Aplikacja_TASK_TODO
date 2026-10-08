@@ -16,10 +16,16 @@ Podział obowiązków wstępny jest taki:
 **Kacper Piotr Zabagło**:
 
 cele:
-1. Pierwszym celem budowy aplikacji/prototypu:
+1.Pierwszym celem budowy aplikacji/prototypu:
+
 -Skonfigurowanie środowiska pracy zespołu
+
 -Działający interfejs
+
 -Dodawanie pojedyńczych zadań
+
 -Wyświetlanie zadań na pasku powiadomień
+
 -Trwałość i poprawność bazy danych z zadaniami
+
 **termin 21.10.2026**
