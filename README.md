@@ -5,27 +5,25 @@ Aplikacja powinna zawierać interfejs wizualny z paskiem postępu i listą zebra
 
 Podział obowiązków wstępny jest taki:
 
-**Tomasz Karol Semla**: Rdzeń aplikacji, środowisko, główny kod w Javie podstawy bazy danych oraz podstawy interfejsu
-
-**Do wyboru:**
--Strona wizualna, awatary, przyciski, kafelki, ramki, ogólnie grafika i strona wizualna oraz dalsze kodowanie wyglądu aplikacji, grafika rastrowa/pixelowa (format jpg) oraz język XML
--Obsługa bazy danych, jej konfiguracja, budowa i połączenie ( na razie lokalnie potem globalnie) SQL-lite
-
+**Tomasz Karol Semla**:
+Rdzeń aplikacji, środowisko, główny kod w Javie podstawy bazy danych oraz podstawy interfejsu
 **Przemysław Paweł Salabura**:
-
+-Strona wizualna, awatary, przyciski, kafelki, ramki, ogólnie grafika i strona wizualna oraz dalsze kodowanie wyglądu aplikacji, grafika rastrowa/pixelowa (format jpg) oraz język XML
 **Kacper Piotr Zabagło**:
+-Obsługa bazy danych, jej konfiguracja, budowa i połączenie ( na razie lokalnie potem globalnie) SQL-lite
+**cele:**
+**1.Pierwszym celem budowy aplikacji/prototypu:**
 
-cele:
-1.Pierwszym celem budowy aplikacji/prototypu:
+  -Skonfigurowanie środowiska pracy zespołu
 
--Skonfigurowanie środowiska pracy zespołu
+  -Działający interfejs
 
--Działający interfejs
+  -Dodawanie pojedyńczych zadań
 
--Dodawanie pojedyńczych zadań
+  -Wyświetlanie zadań na pasku powiadomień
 
--Wyświetlanie zadań na pasku powiadomień
-
--Trwałość i poprawność bazy danych z zadaniami
+  -Trwałość i poprawność bazy danych z zadaniami
 
 **termin 21.10.2026**
+
+**2.**
