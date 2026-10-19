@@ -35,7 +35,7 @@ Rdzeń aplikacji, środowisko, główny kod w Javie podstawy bazy danych oraz po
 
   -Trwałość i poprawność bazy danych z zadaniami
 
-**termin 21.10.2026**
+**termin 5.11.2026**
 
 
 **2.**
