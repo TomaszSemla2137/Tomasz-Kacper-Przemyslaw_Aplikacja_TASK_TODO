@@ -1,9 +1,14 @@
 # zadania:
 ## Etap 1 termin do 03.12.2026
+
 -ułożenie bloków zgodnie z ich definicją przez prowadzącego w głownym pliku html
+
 -stworzenie "anchorów" dla przycisków
+
 -zabawa kolorystyką i grafiką
+
 -konsultacje wrzucanych grafik i zdjęć z prowadzącym, układ i kolory bloków do decyzji indywidualnej
+
 
 ## Etap 2 termin do 17.12.2026
 -
